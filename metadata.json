@@ -1,0 +1,6 @@
+{
+  "name": "DN NETWORK PRIME",
+  "description": "DN Network Prime cybernetic prediction and verification interface with futuristic glowing UI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
